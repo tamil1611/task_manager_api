@@ -139,4 +139,3 @@ Each task contains the following fields:
 ## Author
 
 Developed as a FastAPI CRUD assignment demonstrating REST API development with Python, FastAPI, SQLAlchemy, SQLite, and Pydantic.
-
